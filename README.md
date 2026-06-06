@@ -1,16 +1,21 @@
-## Hi there 👋
+## Evgenii Protcenko, Ph.D., PMP
 
-<!--
-**protcenko/protcenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Infrastructure Program Manager with 10 years at AWS delivering hyperscale network backbone capacity programs at global scale.
 
-Here are some ideas to get you started:
+### What I work on
+- Global backbone capacity planning and delivery across North America and Europe
+- Physical-layer infrastructure: fiber, optical, data center scaling
+- Custom operational tooling in **Rust**, **TypeScript**, and **Python**
+- AI-accelerated workflows for infrastructure program management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recent tools I built
+- **Backbone Orders Tracker** — native macOS app (Rust/Svelte/SQLite) consolidating multiple network data sources; cut weekly reporting from ~30 min to a single click
+- **L1 Fiber-Path Diagnostic Tool** — reduced circuit analysis time by 80–90% in production pilots; resolved weeks-stalled deployments in days
+
+### Stack
+`Rust` `TypeScript` `Python` `Svelte` `SQL` `SQLite` `macOS` `Git`
+
+### Reach me
+- LinkedIn: [evgeniip](https://linkedin.com/in/evgeniip)
+- Email: code@protcenko.com
+- Location: Seattle, WA
